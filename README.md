@@ -1,7 +1,7 @@
 ###  🍄 Hi! I'm Nicole (or Ninn)!
 
 <div style="display: inline_block"><br>
-    <img height="200" align="left" alt="Peach walking" src="https://i.pinimg.com/originals/10/dc/ca/10dcca08311afe9f3c7d2e3ec31cbca2.gif"/>
+    <img height="220" align="left" alt="Peach walking" src="https://i.pinimg.com/originals/10/dc/ca/10dcca08311afe9f3c7d2e3ec31cbca2.gif"/>
 </div>
 
 - 🔭 I’m currently working on prototypes for web and mobile projects at Cati Jr as well as on front-end in a project for my college
