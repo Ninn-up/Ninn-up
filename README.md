@@ -16,7 +16,7 @@
 
 
 <a href="https://github.com/Ninn-up/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ninn-up&theme=onedark&show_icons=true)"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ninn-up&theme=calm&show_icons=true)"/>
 </a>
 
 
