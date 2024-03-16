@@ -16,8 +16,8 @@
 
 
 <a href="https://github.com/Ninn-up/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Ninn-up&theme=calm&show_icons=true"/>
-<img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninn-up&theme=calm&layout=compact"/>
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=Ninn-up&theme=calm&show_icons=true"/>
+<img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninn-up&theme=calm&layout=compact"/>
 </a>
 
 
