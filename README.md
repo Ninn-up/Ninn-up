@@ -4,9 +4,9 @@
     <img width= 150 align="left" alt="Peach walking" src="https://i.pinimg.com/originals/10/dc/ca/10dcca08311afe9f3c7d2e3ec31cbca2.gif"/>
 </div>
 
-- 🔭 I’m currently working on prototypes for web and mobile projects at Cati Jr as well as on front-end in a project for my college
-- 🌱 I’m currently learning JavaScript, CSS and HTML
-- ⚙️ I’m looking for help with front-end development!
+- 🔭 I’m currently working on distributed systems and cloud projects
+- 🌱 I’m currently learning about cloud and federated learning
+- ⚙️ I’m looking for help with cloud development!
 - 🖼️ Ask me about UI/UX! I *love* talking about it 😄
 - ⚡ Fun fact: My favorite writer is Jules Verne, "my first fiction book was 20,000 Leagues Under the sea"
 
@@ -26,6 +26,13 @@
   <img align="center" alt="Ninn-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Ninn-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Ninn-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="Ninn-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" alt="Ninn-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+    <img align="center" alt="Ninn-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+    <img align="center" alt="Ninn-Gcloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
+    <img align="center" alt="Ninn-docker" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
+    <img align="center" alt="Ninn-ros" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ros/ros-original-wordmark.svg" />
+          
           
 </div>
 
